@@ -28,7 +28,6 @@ una operación matemática (+,-,/,x,%), y si la operación no es correcta que en
 -  ¿Hasta cuantos argumentos puedes declarar en una función?
 ### Reto 2:
 - Ingresa al siguiente documento:
-    - https://docs.google.com/document/d/1aJlprbfiKADx-IazY9MMaeB84gsUR-0engVPEkWipNc/edit
 - Define los algoritmos por cada ejercicio
     - Escribe los algoritmos en javascript
 ### V. Solución del reto
